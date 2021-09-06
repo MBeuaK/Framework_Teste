@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/page_1"
+            android:enabled="true"
+            android:icon="@drawable/message"
+            android:title="Posts" />
+
+        <item
+            android:id="@+id/page_2"
+            android:enabled="true"
+            android:icon="@drawable/album"
+            android:title="Albums" />
+
+        <item
+            android:id="@+id/page_3"
+            android:enabled="true"
+            android:icon="@drawable/tasks"
+            android:title="Todos" />
+    </group>
+
+</menu>
