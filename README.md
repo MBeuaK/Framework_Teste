@@ -1,6 +1,6 @@
 # Framework_Teste
 
-Desafio da empresa Framework para vaga de Estagiário.
+Desafio da empresa Framework.
 
 Solução do desafio realizada em Java e utilizando Retrofit com a IDE Android Studio.
 
